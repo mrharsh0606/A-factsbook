@@ -1,4 +1,4 @@
-#Hi there, I'm Harsh chaudhary <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+# Hi there, I'm Harsh chaudhary <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 I am currently a student of Electronics And Communication Engineering at Shri Mata Vaishno Devi University.
 
 
@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/mrharsh06"><img src="https://img.icons8.com/fluent/100/000000/twitter.png"/></a> 
 <a href="https://www.linkedin.com/in/harsh-chaudhary-563b47199/"><img src="https://img.icons8.com/fluent/100/000000/linkedin.png"/></a> 
 <a href="mailto:19bec029@smvdu.ac.in"><img src="https://img.icons8.com/color/100/000000/gmail--v2.png"/></a> 
+<a href="https://www.youtube.com/channel/UCR9lXnsLVCMNM0dngN8BZ5g"><img src=""/></a> 
+ 
 
 ## Profiles
 
